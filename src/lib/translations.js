@@ -1,0 +1,63 @@
+// Every piece of UI text, in both languages, keyed by a name.
+export const translations = {
+  en: {
+    nav_home: "Home",
+    nav_marketplace: "Marketplace",
+    nav_opportunities: "Opportunities",
+    nav_messages: "Messages",
+    nav_dashboard: "Dashboard",
+    nav_login: "Login",
+    nav_signup: "Sign Up",
+    nav_logout: "Logout",
+
+    home_tagline: "Bridging Rural Talent to Urban Opportunities",
+    home_get_started: "Get Started",
+
+    login_welcome: "Welcome back",
+    login_email: "Email",
+    login_password: "Password",
+    login_button: "Login",
+    login_loading: "Logging in...",
+    login_new_here: "New here?",
+    login_create_account: "Create an account",
+
+    signup_title: "Create your account",
+    signup_full_name: "Full name",
+    signup_email: "Email",
+    signup_password: "Password (min 6 characters)",
+    signup_button: "Sign Up",
+    signup_loading: "Creating account...",
+    signup_have_account: "Already have an account?",
+    signup_login: "Login",
+  },
+  te: {
+    nav_home: "హోమ్",
+    nav_marketplace: "సంత",
+    nav_opportunities: "అవకాశాలు",
+    nav_messages: "సందేశాలు",
+    nav_dashboard: "డాష్‌బోర్డ్",
+    nav_login: "లాగిన్",
+    nav_signup: "నమోదు",
+    nav_logout: "లాగౌట్",
+
+    home_tagline: "గ్రామీణ ప్రతిభను పట్టణ అవకాశాలకు కలిపే వారధి",
+    home_get_started: "ప్రారంభించండి",
+
+    login_welcome: "తిరిగి స్వాగతం",
+    login_email: "ఇమెయిల్",
+    login_password: "పాస్‌వర్డ్",
+    login_button: "లాగిన్",
+    login_loading: "లాగిన్ అవుతోంది...",
+    login_new_here: "ఇక్కడ కొత్తవారా?",
+    login_create_account: "ఖాతా సృష్టించండి",
+
+    signup_title: "మీ ఖాతాను సృష్టించండి",
+    signup_full_name: "పూర్తి పేరు",
+    signup_email: "ఇమెయిల్",
+    signup_password: "పాస్‌వర్డ్ (కనీసం 6 అక్షరాలు)",
+    signup_button: "నమోదు",
+    signup_loading: "ఖాతా సృష్టిస్తోంది...",
+    signup_have_account: "ఇప్పటికే ఖాతా ఉందా?",
+    signup_login: "లాగిన్",
+  },
+};

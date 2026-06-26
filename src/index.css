@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-kala-orange: #C86B2A;
+  --color-kala-green: #2E6B4E;
+  --color-kala-cream: #F8F5EF;
+  --color-kala-charcoal: #1F2937;
+}
