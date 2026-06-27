@@ -54,7 +54,7 @@ function Navbar() {
     <nav className="bg-white shadow-sm sticky top-0 z-20">
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between gap-6">
         <NavLink to="/" className="text-2xl font-bold text-kala-orange shrink-0">
-          KalaSetu
+          A2B-SETU
         </NavLink>
 
         <div className="flex items-center gap-4 text-sm">

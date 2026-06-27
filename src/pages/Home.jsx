@@ -5,7 +5,7 @@ function Home() {
   const { t } = useLanguage();
   return (
     <div className="text-center py-16">
-      <h1 className="text-5xl font-bold text-kala-orange mb-4">KalaSetu</h1>
+      <h1 className="text-5xl font-bold text-kala-orange mb-4">A2B-SETU</h1>
       <p className="text-xl text-kala-charcoal mb-2">{t("home_tagline")}</p>
       <p className="text-kala-green font-medium mb-8">కళ • సేతు</p>
       <Link
